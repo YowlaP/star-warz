@@ -1,4 +1,4 @@
-package tp5;
+package starwars;
 
 public abstract class Personnage {
     private String nom;

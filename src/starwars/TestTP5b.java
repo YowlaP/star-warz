@@ -1,4 +1,4 @@
-package tp5;
+package starwars;
 
 import java.awt.Color;
 

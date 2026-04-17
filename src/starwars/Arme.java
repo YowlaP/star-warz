@@ -1,4 +1,4 @@
-package tp5;
+package starwars;
 
 public class Arme {
     private boolean allume;
