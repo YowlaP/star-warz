@@ -1,21 +1,14 @@
 # Star Warz
 
-Projet Java - MIAGE L2 S2 - Modélisation Orientée Objet
+Modélisation orientée objet de l'univers Star Wars en Java.
 
 ## Contenu
 
-### TP5 - Univers Star Wars
-- `Personnage` : Classe de base pour tous les personnages
-- `Jedi` / `Soldat` : Spécialisations de Personnage
+- `Personnage` : Classe de base
+- `Jedi` / `Soldat` : Spécialisations
 - `CoteLumineux` / `CoteObscur` : Factions
-- `Arme` : Classe abstraite pour les armes
+- `Arme` : Classe abstraite
 - `Sabre` / `Blaster` : Types d'armes
-- `TestTP5a` / `TestTP5b` : Classes de tests
-
-## Concepts abordés
-- Héritage et polymorphisme
-- Classes abstraites et interfaces
-- Composition
 
 ## Technologie
 - Java
